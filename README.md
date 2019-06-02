@@ -12,6 +12,8 @@
 
 * mongoose
 
+* js-md5
+
 * jQuery
 
 * bootstrap
