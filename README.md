@@ -20,15 +20,12 @@
 
 * ES6
 
-
 ## 启动
 
-1. git clone 
+1. git clone
 
-2. npm install 
+2. npm install
 
-3. node app.js （node 启动）
+3. mongod （开启 mongoDB 数据库）
 
-
-
-
+4. node app.js （node 启动）
